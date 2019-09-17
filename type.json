@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "kode": "OR",
+      "sortering": 7,
+      "tittel": {
+        "nb": "Datakilde"
+      },
+      "utenRamme": true
+    },
+    {
+      "farge": "hsl(24, 100%, 50%)",
+      "infoUrl": "https://no.wikipedia.org/wiki/Artsdatabanken",
+      "ingress": {
+        "nb": "Artsdatabanken er en nasjonal kunnskapsbank for naturmangfold. Artsdatabankens viktigste oppgave er å forsyne offentligheten, forskningsmiljøer og forvaltning med informasjon om arter og naturtyper i Norge. Kunnskap som finnes hos museer, forskningsinstitutter, forvaltningsorganer og frivillige organisasjoner, blir samlet under en felles plattform og gjort allment tilgjengelig gjennom Artsdatabanken."
+      },
+      "kode": "OR-ADB",
+      "metaUrl": "https://www.artsdatabanken.no",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/artsdatabanken/artskart-rodlistearter-wfs/a9e500fb-c188-4601-81b4-072c36a60c8c",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "RL",
+          "lisenskode": "CC BY 4.0"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/artsdatabanken/artskart-api/42b59f02-2a61-4d4e-b0bd-358e26094a4f",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "AR",
+          "lisenskode": "CC BY 4.0"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-LA",
+          "lisenskode": "CC BY 4.0"
+        }
+      ],
+      "tittel": {
+        "nb": "Artsdatabanken"
+      }
+    },
+    {
+      "farge": "hsl(209, 98%, 33%)",
+      "infoUrl": "https://no.wikipedia.org/wiki/Statens_kartverk",
+      "ingress": {
+        "nb": "Statens kartverk (kortnavn Kartverket) er en norsk statlig forvaltningsbedrift under Kommunal- og moderniseringsdepartementet (fra 2014).  Kartverket skal sørge for at tidsriktig, stedfestet informasjon fra det offentlige finnes og er lett tilgjengelig for det norske samfunn til enhver tid. Kartverket er statens fagmyndighet innen kart, geodata og offentlig eiendomsinformasjon, og er også landets tinglysingsmyndighet."
+      },
+      "kode": "OR-KV",
+      "metaUrl": "https://www.kartverket.no",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "AO",
+          "lisenskode": "CC BY 4.0"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/kartverket/hoydereferansemodell-nn2000/71a73064-59a5-4f03-a0b8-fa5c649c3fc9",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-BS-8",
+          "lisenskode": "NLOD"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/kartverket/n50-kartdata/ea192681-d039-42ec-b1bc-f3ce04c189ac",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-TI-I",
+          "lisenskode": "CC BY 4.0"
+        }
+      ],
+      "tittel": {
+        "nb": "Kartverket"
+      }
+    },
+    {
+      "farge": "hsl(177, 93%, 24%)",
+      "infoUrl": "https://no.wikipedia.org/wiki/Milj%C3%B8direktoratet",
+      "ingress": {
+        "nb": "Miljødirektoratet er et norsk direktorat som ble opprettet 1. juli 2013 gjennom en sammenslåing av Direktoratet for naturforvaltning og Klima- og forurensningsdirektoratet.  De overordnede oppgavene er å redusere klimagassutslipp, forvalte norsk natur og hindre forurensning."
+      },
+      "kode": "OR-MDIR",
+      "metaUrl": "http://www.miljodirektoratet.no/",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/miljodirektoratet/naturvernomrader-wfs/ec9972b4-0d3e-4492-bf35-5bca2f7143d1",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "VV",
+          "lisenskode": "NLOD"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA",
+          "lisenskode": "NLOD"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-BS",
+          "lisenskode": "NLOD"
+        }
+      ],
+      "tittel": {
+        "nb": "Miljødirektoratet"
+      }
+    },
+    {
+      "farge": "hsl(60, 7%, 8%)",
+      "infoUrl": "https://no.wikipedia.org/wiki/Norges_geologiske_unders%C3%B8kelse",
+      "ingress": {
+        "nb": "Norges geologiske undersøkelse (NGU) er en norsk statlig etat med ansvar for geologisk kartlegging og forskning.   NGU har som hovedoppgaver å samle, bearbeide og formidle kunnskap om de fysiske, kjemiske og mineralogiske egenskapene til landets berggrunn, løsmasser, mineralressurser og grunnvann."
+      },
+      "kode": "OR-NGU",
+      "metaUrl": "http://www.ngu.no/",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/berggrunn-n250/7c39be66-77b6-4b74-b58d-53b6bee90067",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-LKM-KA",
+          "lisenskode": "NLOD"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/berggrunn-n250/7c39be66-77b6-4b74-b58d-53b6bee90067",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-LKM-BK-A",
+          "lisenskode": "NLOD"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/bunnsedimenter-kornstorrelse-oversikt/39c357fc-8c56-49e0-a6ba-3e434d62a585",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-LKM-S3-E",
+          "lisenskode": "NLOD"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/bunnsedimenter-kornstorrelse-oversikt/39c357fc-8c56-49e0-a6ba-3e434d62a585",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-LKM-S3-F",
+          "lisenskode": "NLOD"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/bunnsedimenter-kornstorrelse-oversikt/39c357fc-8c56-49e0-a6ba-3e434d62a585",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-LKM-S3-S",
+          "lisenskode": "NLOD"
+        }
+      ],
+      "tittel": {
+        "nb": "Norges Geologiske Undersøkelse"
+      }
+    },
+    {
+      "farge": "hsl(0, 0%, 0%)",
+      "infoUrl": "https://no.wikipedia.org/wiki/Norsk_institutt_fOR-bio%C3%B8konomi",
+      "ingress": {
+        "nb": "NIBIO leverer kunnskap om mat- og planteproduksjon, miljø, klimasmart landbruk, kart, arealbruk, genressurser, skog, ressursforvaltning og landbruksøkonomi."
+      },
+      "kode": "OR-NIBIO",
+      "metaUrl": "https://www.nibio.no",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/norsk-institutt-for-biookonomi/arealressurskart-ar50/4bc2d1e0-f693-4bf2-820d-c11830d849a3",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-TI-I",
+          "lisenskode": "NLOD"
+        }
+      ],
+      "tittel": {
+        "nb": "Norsk institutt for bioøkonomi"
+      }
+    },
+    {
+      "farge": "#A2B8C0",
+      "infoUrl": "https://no.wikipedia.org/wiki/Norsk_institutt_for_naturforskning",
+      "ingress": {
+        "nb": "Stiftelsen Norsk institutt for naturforskning (NINA) er en norsk stiftelse, opprettet i 1988, som forsker på natur og samspillet mellom natur og samfunn.  NINAs primære aktivitet er å drive anvendt forskning. Stiftelsen har både biologer og samfunnsforskere. Viktige arbeidsområder for NINA er biologisk mangfold, fornybar energi, rovvilt, havbruk, miljødatabaser, bruk og forvaltning av naturressurser, konsekvensanalyser, økologiske effekter av klimaendringer og økonomiske effekter av naturbruk."
+      },
+      "kode": "OR-NINA",
+      "metaUrl": "https://nina.no",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-BS-6SE",
+          "lisenskode": ""
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-BS-6SO",
+          "lisenskode": ""
+        }
+      ],
+      "tittel": {
+        "nb": "Norsk institutt for naturforskning"
+      }
+    },
+    {
+      "farge": "hsl(0, 0%, 50%)",
+      "infoUrl": "https://paleobiodb.org",
+      "ingress": {
+        "nb": "The Paleobiology Database is a public database of paleontological data that anyone can use, maintained by an international non-governmental group of paleontologists."
+      },
+      "kode": "OR-PDB",
+      "tittel": {
+        "en": "The Paleobiology Database",
+        "nb": "The Paleobiology Database"
+      }
+    },
+    {
+      "farge": "hsl(0, 0%, 0%)",
+      "infoUrl": "https://no.wikipedia.org/wiki/Statistisk_sentralbyr%C3%A5",
+      "ingress": {
+        "nb": "Statistisk sentralbyrå (SSB) er den sentrale institusjonen for innsamling, bearbeiding og formidling av offisiell statistikk i Norge. SSB har, i henhold til statistikkloven av 1989,[4] rett til å bestemme hva som skal være offisiell statistikk, samt ansvaret for å samordne all offisiell statistikk i Norge."
+      },
+      "kode": "OR-SSB",
+      "metaUrl": "https://www.ssb.no",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "AO",
+          "lisenskode": "CC BY 4.0"
+        }
+      ],
+      "tittel": {
+        "en": "Statistics Norway",
+        "nb": "Statistisk sentralbyrå"
+      }
+    },
+    {
+      "farge": "hsl(0, 0%, 50%)",
+      "infoUrl": "https://www.wikidata.org/wiki/Wikidata:Introduction",
+      "ingress": {
+        "nb": "Wikidata er et prosjekt for å lage en dugnadsbasert database for å støtte Wikimedia-prosjekter som Wikipedia. Prosjektet ble starta av Wikipedia på tysk, og er ment å tilby standardiserte typer data til bruk på Wikimedia-prosjekter, for eksempel fødselsdatoer og geografiske data, og skal kunne brukes på samme måte som mediefiler fra Wikimedia Commons brukes.  Wikidata ble Wikimedia Foundations første nye prosjekt siden 2006.  Prosjektet ble oppretta med støtte fra Allen Institute for Artificial Intelligence, Gordon and Betty Moore Foundation og Google."
+      },
+      "kode": "OR-WP",
+      "metaUrl": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://commons.wikimedia.org/wiki/Category:PD_Coa_Norway",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "AO",
+          "lisenskode": "CC BY SA 3.0"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://no.Wikidata.org/wiki/Verneomr%C3%A5der_i_Norge",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "VV",
+          "lisenskode": "CC BY SA 3.0"
+        }
+      ],
+      "tittel": {
+        "en": "Wikidata",
+        "nb": "Wikidata"
+      }
+    }
+  ],
+  "meta": {
+    "tittel": "Type",
+    "produsertUtc": "2019-09-17T18:15:47.224Z",
+    "utgiver": "Artsdatabanken",
+    "url": null,
+    "tool": {
+      "name": "datakilde-lastejobb"
+    },
+    "elementer": 10
+  }
+}

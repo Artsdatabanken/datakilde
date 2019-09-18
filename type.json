@@ -317,9 +317,9 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-09-17T18:15:47.224Z",
+    "produsertUtc": "2019-09-18T19:45:26.656Z",
     "utgiver": "Artsdatabanken",
-    "url": null,
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/datakilde/master/type.json",
     "tool": {
       "name": "datakilde-lastejobb"
     },

@@ -252,6 +252,17 @@
         "nb": "The Paleobiology Database is a public database of paleontological data that anyone can use, maintained by an international non-governmental group of paleontologists."
       },
       "kode": "OR-PDB",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://paleobiodb.org/classic/displayDownloadGenerator",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-BS-2FO",
+          "lisenskode": "CC BY 4.0"
+        }
+      ],
       "tittel": {
         "en": "The Paleobiology Database",
         "nb": "The Paleobiology Database"
@@ -317,7 +328,7 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-09-18T19:45:26.656Z",
+    "produsertUtc": "2019-10-07T15:00:33.402Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/datakilde/master/type.json",
     "tool": {

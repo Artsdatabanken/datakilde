@@ -1,0 +1,142 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "kode": {
+            "type": "string"
+          },
+          "sortering": {
+            "type": "number"
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              },
+              "en": {
+                "type": "string"
+              }
+            }
+          },
+          "utenRamme": {
+            "type": "boolean"
+          },
+          "farge": {
+            "type": "string"
+          },
+          "infoUrl": {
+            "type": "string"
+          },
+          "ingress": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
+          },
+          "metaUrl": {
+            "type": "string"
+          },
+          "relasjon": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "erSubset": {
+                  "type": "boolean"
+                },
+                "geonorgeurl": {
+                  "type": "string"
+                },
+                "kant": {
+                  "type": "string"
+                },
+                "kantRetur": {
+                  "type": "string"
+                },
+                "kantReturFraAlleBarna": {
+                  "type": "boolean"
+                },
+                "kode": {
+                  "type": "string"
+                },
+                "lisenskode": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "erSubset",
+                "geonorgeurl",
+                "kant",
+                "kantRetur",
+                "kantReturFraAlleBarna",
+                "kode",
+                "lisenskode"
+              ]
+            }
+          }
+        },
+        "required": [
+          "kode",
+          "tittel",
+          "farge",
+          "infoUrl",
+          "ingress",
+          "metaUrl",
+          "relasjon"
+        ]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "null"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "meta": {
+    "tittel": "Type.schema",
+    "produsertUtc": "2019-11-07T12:31:06.710Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/datakilde/master/type.schema.json",
+    "tool": {
+      "name": "datakilde-lastejobb"
+    },
+    "elementer": 3
+  }
+}

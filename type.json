@@ -293,6 +293,47 @@
       }
     },
     {
+      "farge": "#00509e",
+      "infoUrl": "https://www.ntnu.no/museum",
+      "ingress": {
+        "nb": "NTNU Vitenskapsmuseet i Trondheim er ett av sju norske universitetsmuseer, med natur- og kulturhistoriske samlinger og utstillinger. Museet har forsknings- og forvaltningsansvar innenfor arkeologi og biologi i Midt-Norge. I tillegg driver museet en omfattende formidlingsvirksomhet og har utstillinger i tre bygg på Kalvskinnet."
+      },
+      "kode": "OR-VM",
+      "relasjon": [
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://www.ntnu.no/museum",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-TI-V",
+          "lisenskode": "NLOD"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://www.ntnu.no/museum",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-TI-L4",
+          "lisenskode": "NLOD"
+        },
+        {
+          "erSubset": true,
+          "geonorgeurl": "https://www.ntnu.no/museum",
+          "kant": "Datasett",
+          "kantRetur": "Datakilde",
+          "kantReturFraAlleBarna": true,
+          "kode": "NN-NA-BS-3TO",
+          "lisenskode": "NLOD"
+        }
+      ],
+      "tittel": {
+        "en": "NTNU University museum",
+        "nb": "NTNU Vitenskapsmuseet"
+      }
+    },
+    {
       "farge": "hsl(0, 0%, 50%)",
       "infoUrl": "https://www.wikidata.org/wiki/Wikidata:Introduction",
       "ingress": {
@@ -328,12 +369,13 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-10-07T15:00:33.402Z",
+    "produsertUtc": "2019-11-07T12:31:06.707Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/datakilde/master/type.json",
     "tool": {
       "name": "datakilde-lastejobb"
     },
-    "elementer": 10
-  }
+    "elementer": 11
+  },
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/datakilde/master/type.schema.json#"
 }

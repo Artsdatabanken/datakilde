@@ -96,11 +96,21 @@
       "properties": {
         "kode": "OR-MDIR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.3844981,63.4290531]
+      },
+      "properties": {
+        "kode": "OR-VM"
+      }
     }
   ],
   "meta": {
     "tittel": "Punkt 4326",
-    "produsertUtc": "2019-09-21T16:03:17.232Z",
+    "produsertUtc": "2019-11-07T12:31:06.594Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/datakilde/master/punkt_4326.geojson",
     "tool": {
